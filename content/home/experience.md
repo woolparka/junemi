@@ -25,7 +25,7 @@ experience:
   - title: Graduate Research Assistant
     company: Georgia State University
     company_url: ''
-    company_logo: org-gsu
+    company_logo: org-gc
     location: Atlanta, Georgia
     date_start: '2019-08-01'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Senior Research Associate
     company: Korea Development Institute (KDI)
     company_url: 'https://www.kdi.re.kr/'
-    company_logo: org-kdi
+    company_logo: org-x
     location: Sejong-si, Korea
     date_start: '2015-12-01'
     date_end: '2019-07-31'
