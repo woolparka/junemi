@@ -2,9 +2,7 @@
 role: PhD Student
 bio: My research interests include ...
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Public Policy
 social:
   - icon: envelope
     icon_pack: fas
@@ -17,7 +15,7 @@ social:
     link: https://github.com/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/junemi-jennifer-kang-75a62a86/
 organizations:
   - name: Georgia State University
     url: https://aysps.gsu.edu/
@@ -25,15 +23,18 @@ organizations:
     url: https://www.gatech.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Public Policy
+      institution: Georgia State University
+      year: 2024
+    - institution: Georgia Institute of Technology
+      year: 2024
+      course: PhD in Public Policy
+    - course: Masters in Public Policy
+      institution: KDI School of Public Policy and Management
+      year: 2016
+    - course: BA in Economics & International Studies
+      institution: Rhodes College
+      year: 2013
 superuser: true
 highlight_name: true
 title: June Mi Jennifer Kang
