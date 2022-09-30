@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'JuneMi Kang'
-    description: 'Personal page for JuneMi Kang'
+    org_name: 'JuneMi Jennifer Kang'
+    description: 'Personal page for JuneMi Jennifer Kang'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} JuneMi Kang. This work is licensed under {license}'
+    notice: '© {year} JuneMi Jennifer Kang. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
