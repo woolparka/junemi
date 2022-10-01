@@ -4,6 +4,10 @@ role: PhD Student
 bio: My research interests include ...
 interests:
   - Public Policy
+  - Program Evaluation
+  - Human Capital Development
+  - STEM Education
+  - Social Innovation
 social:
   - icon: envelope
     icon_pack: fas
@@ -11,9 +15,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=
-  - icon: github
+  - icon: twitter
     icon_pack: fab
-    link: https://github.com/
+    link: https://twitter.com/JunemiKang
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/junemi-jennifer-kang-75a62a86/
@@ -35,7 +39,7 @@ education:
       year: 2016
     - course: BA in Economics & International Studies
       institution: Rhodes College
-      year: 2013
+      year: 2014
 email: ""
 superuser: true
 highlight_name: true
