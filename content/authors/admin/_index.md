@@ -52,4 +52,4 @@ I hold a Master's in Public Policy from the KDI School of Public Policy and Mana
 
 I am currently teaching PMAP 3311 Critical Policy Issues, a writing-intensive course introducing the foundations of public policy to upper-level students of undergraduate students. Outside the classroom and research environment, I strive to spread kindness: my colleagues have awarded me the Miss Sunshine award for bringing a smile to everyone I encounter. My ultimate goal is to become a channel for benevolent influence by providing a daily dose of sunshine in people's lives through my research and kindness. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/curriculum-vitae_june-mi-kang_20221007.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
