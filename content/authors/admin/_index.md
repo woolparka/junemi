@@ -1,5 +1,4 @@
 ---
-title: June Mi Jennifer Kang
 role: PhD Student
 bio: My research interests include ...
 interests:
@@ -40,9 +39,10 @@ education:
     - course: BA in Economics & International Studies
       institution: Rhodes College
       year: 2014
-email: ""
 superuser: true
 highlight_name: true
+title: June Mi Jennifer Kang
+email: ""
 ---
 I am a Ph.D. student in Public Policy in the joint program between Georgia State University and Georgia Institute of Technology (job market expected in 2023-2024), working under the advisement of Dr. Ross Rubenstein, Dan E. Sweat Distinguished Chair in Educational and Community Policy. My current research interests revolve around program evaluation, human capital development, STEM education, and tackling upward mobility questions through social innovation, such as social capital and social entrepreneurship. Building on these topics, I investigate how educational outcomes differ for the traditionally disadvantaged or low-income groups and the ways to boost social opportunities through human capital development.
 
@@ -52,4 +52,4 @@ I hold a Master's in Public Policy from the KDI School of Public Policy and Mana
 
 I am currently teaching PMAP 3311 Critical Policy Issues, a writing-intensive course introducing the foundations of public policy to upper-level students of undergraduate students. Outside the classroom and research environment, I strive to spread kindness: my colleagues have awarded me the Miss Sunshine award for bringing a smile to everyone I encounter. My ultimate goal is to become a channel for benevolent influence by providing a daily dose of sunshine in people's lives through my research and kindness. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/curriculum-vitae_june-mi-kang_20221007.pdf" "newtab" >}}CV{{< /staticref >}}.
