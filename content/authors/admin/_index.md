@@ -1,4 +1,5 @@
 ---
+title: June Mi Jennifer Kang
 role: PhD Student
 bio: My research interests include ...
 interests:
@@ -22,9 +23,9 @@ social:
     link: https://www.linkedin.com/in/junemi-jennifer-kang-75a62a86/
 organizations:
   - name: Georgia State University
-    url: https://aysps.gsu.edu/
+    url: https://aysps.gsu.edu/public-management-policy/
   - name: Georgia Institute of Technology
-    url: https://www.gatech.edu/
+    url: https://spp.gatech.edu/
 education:
   courses:
     - course: PhD in Public Policy
@@ -39,10 +40,9 @@ education:
     - course: BA in Economics & International Studies
       institution: Rhodes College
       year: 2014
+email: ""
 superuser: true
 highlight_name: true
-title: June Mi Jennifer Kang
-email: ""
 ---
 I am a Ph.D. student in Public Policy in the joint program between Georgia State University and Georgia Institute of Technology (job market expected in 2023-2024), working under the advisement of Dr. Ross Rubenstein, Dan E. Sweat Distinguished Chair in Educational and Community Policy. My current research interests revolve around program evaluation, human capital development, STEM education, and tackling upward mobility questions through social innovation, such as social capital and social entrepreneurship. Building on these topics, I investigate how educational outcomes differ for the traditionally disadvantaged or low-income groups and the ways to boost social opportunities through human capital development.
 
