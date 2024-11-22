@@ -45,7 +45,7 @@ My primary research interests revolve around program evaluation, human capital d
 
 A little more background about myeself - before joining the doctoral program, I worked as a Senior Research Associate at KDI (Korea Development Institute), a highly regarded think tank in Korea. I recieved multiple accolades during my time there such as the 2020 best paper of the year awarded by the South Korean Government. Prior to that I attended the KDI School of Public Policy and Management for the Master's in Public Policy.
 
-Outside of research, teaching holds a special palce in my heart. During my doctorate program I have taught (*Critical Policy Issues (PMAP 3311)*), a writing-intensive course introducing the foundations of public policy to upper-level students of undergraduate students. 
+Outside of research, teaching holds a special palce in my heart. During my doctorate program I have taught *Critical Policy Issues (PMAP 3311)*, a writing-intensive course introducing the foundations of public policy to 40 upper-level undergraduate students. I put a lot of emphasis on rapport and effective communication, and focused on revamping the course from the ground up to interact with the students more empathetically, receiving a 5.0 instructor rating with over a 50% participation rate.
 
 Overall, I strive to spread kindness which is reflected in my research interests, and my teaching philosophy. My ultimate goal is to become a channel for benevolent influence by contributing to research in critical areas to improve equity for those in need.
 
