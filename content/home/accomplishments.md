@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://aysps.gsu.edu
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: Example Organization
-    organization_url: https://aysps.gsu.edu
-    title: 'Example Accomplishment'
-    url: ''
+#  - certificate_url: https://aysps.gsu.edu
+#    date_end: '2020-12-21'
+#    date_start: '2020-07-01'
+#    description: ''
+#    organization: Example Organization
+#    organization_url: https://aysps.gsu.edu
+#    title: 'Example Accomplishment'
+#    url: ''
 
 design:
   columns: '2'
