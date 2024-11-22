@@ -13,9 +13,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/junemi-jennifer-kang-75a62a86/
@@ -28,9 +25,9 @@ education:
   courses:
     - course: PhD in Public Policy
       institution: Georgia State University
-      year: 2024
+      year: 2024 (job market)
     - institution: Georgia Institute of Technology
-      year: 2024
+      year: 2024 (job market)
       course: PhD in Public Policy
     - course: Masters in Public Policy
       institution: KDI School of Public Policy and Management
