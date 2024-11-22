@@ -1,5 +1,5 @@
 ---
-title: June Mi Jennifer Kang
+title: JuneMi Jennifer Kang
 role: PhD Candidate (ABD)
 bio: My research interests include ...
 interests:
