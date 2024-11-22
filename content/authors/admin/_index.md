@@ -6,9 +6,10 @@ interests:
   - Public Policy
   - Program Evaluation
   - Education Policy
-  - K-12 and Higher Education
+  - Equity & Access
   - Human Capital Development
   - Social Innovation
+  - Resource Allocation
 social:
   - icon: envelope
     icon_pack: fas
