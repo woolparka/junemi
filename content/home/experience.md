@@ -3,6 +3,8 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
+active: false
+
 # This file represents a page section.
 headless: true
 
@@ -23,21 +25,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Graduate Research Assistant
-    company: Georgia State University
+    company: Georgia Tech / GSU
     company_url: ''
-    company_logo: org-gc
+    #company_logo: org-gc
     location: Atlanta, Georgia
     date_start: '2019-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Lorem Ipsum
+        * Research 
 
   - title: Senior Research Associate
     company: Korea Development Institute (KDI)
     company_url: 'https://www.kdi.re.kr/'
-    company_logo: org-x
+    #company_logo: org-x
     location: Sejong-si, Korea
     date_start: '2015-12-01'
     date_end: '2019-07-31'
