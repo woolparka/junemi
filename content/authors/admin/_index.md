@@ -6,7 +6,8 @@ interests:
   - Public Policy
   - Program Evaluation
   - Human Capital Development
-  - STEM Education
+  - Higher Education
+  - K-12 Education
   - Social Innovation
 social:
   - icon: envelope
